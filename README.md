@@ -1,6 +1,6 @@
 # Concert Tickets
 
-I had a concert event that I had to give tickets to the guests and let them know where they need to sit. <br />  
+I had a concert event that I had to give tickets to the guests and let them know where they need to sit. <br />
 So I decided to write this code that create to every single guest a folder with his tickets.  <br />
 This folder include all his tickets with the seating places and all the information he need to the concert.  <br />
 The tickets are in PDFs format.  <br />
