@@ -16,10 +16,10 @@ This code support hebrew text.
 - this code is written in python. <br />
 
 ## Useful Links
-1. online website to covert csv file to json file: <br/> [Link](https://csvjson.com/csv2json) <br/>
+1. online website to covert csv file to json file [Link](https://csvjson.com/csv2json) <br/>
 2. online website to convert pdf to jpg.
 
 
 
 ## Example of the output
-![alt text](https://github.com/lihip94/ConcertTickets/ExampleToPdf.jpg)
+![alt text](https://github.com/lihip94/ConcertTickets/blob/master/ExampleToPdf.jpg)
