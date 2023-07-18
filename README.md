@@ -1,23 +1,29 @@
 # Concert Tickets
 
+I had a concert event that I had to give tickets to the guests and let them know where they need to sit. <br />  
+So I decided to write this code that create to every single guest a folder with his tickets.  <br />
+This folder include all his tickets with the seating places and all the information he need to the concert.  <br />
+The tickets are in PDFs format.  <br />
 With this code you can create tickets to any event you have.
-This code support hebrew text.
+I hope you will enjoy and find this code useful and clear.
+Let me know if you have any comments.
 
-## About the project
+## Important Facts About the project
 - Create tickets to any event you like. <br />
 - Support hebrew text. <br />
-- this code is written in python. <br />
+- This code is written in python. <br />
 
 
 ## Installations and steps
-- see the requirements.txt file to install all python packages. <br />
-- add to the project folder your picture format of ticket. <br />
-- add to the project the data json file. <br />
-- this code is written in python. <br />
+- See the requirements.txt file to install all python packages. <br />
+- Add to the project folder your picture format of ticket. <br />
+- Add to the project the data json file. <br />
+- Run the main code. <br />
+- Fix the parameters and add changes as you need. <br />
 
 ## Useful Links
-1. online website to covert csv file to json file [Link](https://csvjson.com/csv2json) <br/>
-2. online website to convert pdf to jpg.
+1. Online website to covert csv file to json file [Link](https://csvjson.com/csv2json) <br/>
+2. Online website to convert pdf to jpg.
 
 
 
